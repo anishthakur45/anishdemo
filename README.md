@@ -1,4 +1,4 @@
-# anishdemo
-this is my first repository thankyou,
+# Anishdemo
+This is my first repository thankyou.
 <br>
-author _anish tahkur
+Author --Anish tahkur
